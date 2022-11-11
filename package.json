@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "pwa-asset-generator": "^6.2.0",
     "vue": "^3.2.41",
     "vue3-flip-countdown": "^0.1.6"
   },
