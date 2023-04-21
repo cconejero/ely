@@ -16,7 +16,7 @@ export default defineConfig({
               name: 'Ely llega en...',
               short_name: 'Ely',
               description: 'Cuando llega Ely',
-              theme_color: '#ffffff',
+              theme_color: '#e879f9',
               icons: [
                   {
                       src: 'pwa-192x192.png',
