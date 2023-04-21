@@ -13,9 +13,9 @@ export default defineConfig({
           },
           includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'pwa-192x192.png', 'pwa-512x512.png'],
           manifest: {
-              name: 'Moncho llega en...',
-              short_name: 'Moncho',
-              description: 'Cuando llega Moncho',
+              name: 'Ely llega en...',
+              short_name: 'Ely',
+              description: 'Cuando llega Ely',
               theme_color: '#ffffff',
               icons: [
                   {
