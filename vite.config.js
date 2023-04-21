@@ -9,9 +9,9 @@ export default defineConfig({
       VitePWA({
           registerType: 'autoUpdate',
           workbox: {
-              globPatterns: ['**/*.{js,css,html,ico,png,svg}']
+              globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
           },
-          includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'pwa-192x192.png', 'pwa-512x512.png'],
+          includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'pwa-192x192.png', 'pwa-512x512.png', 'src/assets/*.*'],
           manifest: {
               name: 'Ely llega en...',
               short_name: 'Ely',
